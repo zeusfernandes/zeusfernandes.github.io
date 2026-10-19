@@ -17,3 +17,5 @@ To update the site, edit `index.html` or `style.css`, and commit the changes. Re
 This website is public. It includes your email address, LinkedIn, GitHub, and professional background. It intentionally does not include your phone number. Check all content before publishing. The attached CV PDF does contain your phone number and other contact details.
 
 This edition uses a light theme and includes `profile-photo.jpg` extracted from the supplied CV.
+
+Includes a small Beyond the Data section about music in Goa, Quarterblack, Crimson Tide, and teaching during COVID-19.
